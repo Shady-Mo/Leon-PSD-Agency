@@ -1,4 +1,4 @@
-# Graphberry - Leon - PSD Agency solution
+# Graphberry | Leon - PSD Agency solution
 
 This is a solution to the [Leon - PSD Agency Template on Graphberry](https://www.graphberry.com/item/leon-psd-agency-template). Graphberry website help you improve your coding skills by building full web page design.
 
