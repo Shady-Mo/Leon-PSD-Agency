@@ -19,7 +19,7 @@ Make the same design as in the [screenshot](#screenshot)
 
 ### Screenshot
 
-![Screenshot of the project](./design/Web capture_5-2-2024_155531_www.graphberry.com.jpeg)
+![Screenshot of the project](./design/desktop-design.jpg)
 
 ### Links
 
